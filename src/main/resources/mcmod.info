@@ -1,0 +1,16 @@
+[
+{
+  "modid": "eichelkrauler",
+  "name": "Eichelkrauler",
+  "description": "Ich habe langeweile deswegen schreibe ich jetzt ein kleinen text. Deine mutter ist zum beispiel Gay. Der Link ist kein Rick Roll sondern erklärt wie man Free VBucks bekommt...",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "updateUrl": "",
+  "authorList": ["DerEchteMotherFuckerKazz"],
+  "credits": "Meine Eier",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
